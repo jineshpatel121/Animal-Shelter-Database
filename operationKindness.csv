@@ -1,0 +1,15 @@
+AnimalType,Name,Age,Weight,Breed,Color,Health,Sound
+cat,Morris,9,3,,yellow,good,Moan
+cat,Mittens,1,1,Calico,brown and white,good,Mew
+cat,Junior,1,2,Tabby,black,,
+cat,Priss,,,,white,good,Mew
+bird,,,,Mynah,black,,Hello
+cat,Charcoal,1,2,Siamese,white and yellow,good,Hiss
+dog,Bitsy,4,6,Minx,grey,good,
+cat,Charmin,,3,,white,parvo,
+hamster,Chippy,,1,,tan,,
+dog,Fido,5,7,,spotted,good,Bark
+cat,Red,2,,Heinz,redddish,parvo,
+cat,Cute Stuff,1,2,,yellow,good,Purr
+dog,Rex,3,5,,brown and white,good,
+dog,Spot,,8,Dalmation,spotted,,Woof
