@@ -1,6 +1,6 @@
 Animal Shelter Database
 
-This project is designed to manage an animal shelter's database, keeping track of various animals such as cats and dogs. It allows for creating reports on the total number of animals, their details, and their health status.
+This project is designed to manage an animal shelter's database, keeping track of various animals. It allows for creating reports on the total number of animals, their details, and their health status.
 
 Project Structure:
 
